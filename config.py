@@ -1,5 +1,5 @@
 class Config:
-    role_name = ""
+    role_name = ""j
     message_id = ""
     prefix = "."
     bot_token = ""
